@@ -1,4 +1,4 @@
-### Hi there 👋
+### Public repositories contribution stats
 
 ![Public repositories contribution stats](https://github-readme-stats.vercel.app/api?username=mslowiak&show_icons=true)
 
