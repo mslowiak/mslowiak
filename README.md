@@ -1,6 +1,6 @@
 ### Public repositories contribution stats
 
-![Public repositories contribution stats](https://github-readme-stats.vercel.app/api?username=mslowiak&show_icons=true)
+![Public repositories contribution stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mslowiak&&show_icons=true)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mslowiak) - since 15 Nov, 2021
 
